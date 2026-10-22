@@ -1,4 +1,4 @@
-#----------studen management system-------------#
+#----------student management system-------------#
 
 Students = []
 
